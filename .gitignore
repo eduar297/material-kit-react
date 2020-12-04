@@ -1,0 +1,15 @@
+node_modules
+public
+Documentation
+src
+.env
+.dist
+.babelrc
+.eslintignore
+.eslintrc.js
+bower.json
+CHANGELOG.md
+gulpfile.js
+ISSUE_TEMPLATE.md
+jsconfig.json
+LICENSE.md
