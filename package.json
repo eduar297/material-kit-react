@@ -40,7 +40,7 @@
         "typescript": "3.9.3"
     },
     "scripts": {
-        "start": "react-scripts start"
+        "start": "node server"
     },
     "browserslist": {
         "production": [
